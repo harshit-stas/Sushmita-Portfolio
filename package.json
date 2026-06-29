@@ -1,0 +1,5 @@
+{
+  "name":"portfolio",
+  "private":true,
+  "dependencies":{"nodemailer":"^6.9.13"}
+}
